@@ -1,10 +1,6 @@
 
 
-
-
-A STUDY IN SCARLET
-
-By A. Conan Doyle
+"text"@"title"@"creator"
 
 
 
@@ -14,7 +10,9 @@ By A. Conan Doyle
 
 
 
-CHAPTER I.
+
+
+"CHAPTER I.
 MR. SHERLOCK HOLMES.
 
 
@@ -4704,7 +4702,7 @@ contented by the consciousness of success, like the Roman miser—
 
 
 “‘Populus me sibilat, at mihi plaudo
-Ipse domi simul ac nummos contemplor in arca.’”
+Ipse domi simul ac nummos contemplor in arca.’” "@"study_in_scarlet"@"arthur_conan_doyle"
 
 
 

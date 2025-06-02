@@ -1,15 +1,12 @@
 
     
 
-EIGHT COUSINS
-
-By Louisa M. Alcott
+"text"@"title"@"creator"
 
 
 
 
-
-Chapter 1--Two Girls
+"Chapter 1--Two Girls
 
 Rose sat all alone in the big best parlor, with her little handkerchief
 laid ready to catch the first tear, for she was thinking of her
@@ -8251,4 +8248,4 @@ But Rose hushed the noise by slipping into the circle, and making them
 dance prettily like lads and lasses round a May-pole; while Phebe,
 coming in with fresh water for the flowers, began to twitter, chirp, and
 coo, as if all the birds of the air had come to join in the spring revel
-of the eight cousins.
+of the eight cousins."@"eight_cousins"@"louisa_may_alcott"

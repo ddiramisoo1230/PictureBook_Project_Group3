@@ -1,10 +1,8 @@
-Little Women
-
-by Louisa May Alcott
+"text"@"title"@"creator"
 
 
 
-PART 1
+"PART 1
 
 
 
@@ -20746,7 +20744,7 @@ to gather children and grandchildren to herself, and say, with face and
 voice full of motherly love, gratitude, and humility...
 
 “Oh, my girls, however long you may live, I never can wish you a
-greater happiness than this!”
+greater happiness than this!” "@"little_women"@"louisa_may_alcott"
 
 
 

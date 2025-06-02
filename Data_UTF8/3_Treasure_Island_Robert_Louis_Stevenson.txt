@@ -1,16 +1,11 @@
 
-Treasure Island
-
-Robert Louis Stevenson
 
 
+"text"@"title"@"creator"
 
 
 
-
-
-
-PART ONE--The Old Buccaneer
+"PART ONE--The Old Buccaneer
 
 
 
@@ -7378,6 +7373,6 @@ Flint buried them; and certainly they shall lie there for me. Oxen and
 wain-ropes would not bring me back again to that accursed island; and
 the worst dreams that ever I have are when I hear the surf booming about
 its coasts or start upright in bed with the sharp voice of Captain Flint
-still ringing in my ears: “Pieces of eight! Pieces of eight!”
+still ringing in my ears: “Pieces of eight! Pieces of eight!” "@"treasure_island"@"robert_louis_stevenson"
 
 
